@@ -4,6 +4,8 @@ Karim Barajas is me and I worked on this alone.
 
 ## URL:
 
+https://kbarajas5432.github.io/Lab8_Starter/
+
 
 ## Screenshot:
 ![Recipe Card Screenshot](pwa.png)
